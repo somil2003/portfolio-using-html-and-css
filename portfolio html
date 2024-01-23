@@ -74,19 +74,19 @@
 
             </article>
             <article class="about-article">
-                <img src="e.jpeg" alt="">
+                <img src="https://i.postimg.cc/vBQBjvjR/e.jpg" alt="">
                 <h5>EMAIL</h5>
                 <p>2k22.ece.2212852@gmail.com </p>
 
             </article>
             <article class="about-article">
-                <img src="l.jpeg"alt="">
+                <img src="https://i.postimg.cc/TY8wvGBq/l.jpg"alt="">
                 <h5>Linkedin</h5>
                 <p>www.linkedin.com/in/somil-singh-7b555327b</p>
 
             </article>
             <article class="about-article">
-                <img src="p.png" alt="">
+                <img src="https://i.postimg.cc/qvhjhs1d/p.png" alt="">
                 <h5>PHONE </h5>
                 <p>+919005408698</p>
 
@@ -143,16 +143,16 @@
         <h3><u>Some frontend projects using HTML amd CSS</u></h3>
         <div>
             <h5>gym website</h5>
-            <img src="gymweb.png"height="400px" width="600px">
+            <img src="https://i.postimg.cc/zv6m1Jdm/gymweb.png"height="400px" width="600px">
         </div>
         <div>
             <h5>food website</h5>
-            <img src="foodweb.png"height="400px" width="600px">
+            <img src="https://i.postimg.cc/0NKhp60L/foodweb.png"height="400px" width="600px">
         </div>
 
         <div>
             <h5>myntra website clone</h5>
-            <img src="myntraclone.png"height="400px" width="600px">
+            <img src="https://i.postimg.cc/SRmM6MCd/myntraclone.png"height="400px" width="600px">
         </div>
     </section>
 
