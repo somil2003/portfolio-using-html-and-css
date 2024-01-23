@@ -36,7 +36,7 @@
 
 
         <div>
-            <a href="CV.pdf"><button class="btn">Download CV</button></a>
+            <a href="https://i.postimg.cc/zDSws4CB/Cv.png"><button class="btn">Download CV</button></a>
             <a href=""><button class="btn">Read More</button></a>
 
 
@@ -48,7 +48,7 @@
 
     <section id="rsec">
         <div class="im">
-            <img src="1.jpg" height="200px">
+            <img src="https://i.postimg.cc/Gp7PBR5h/1.jpg" height="200px">
         </div>
 
     </section>
